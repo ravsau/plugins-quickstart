@@ -1,9 +1,9 @@
 {
     "schema_version": "v1",
-    "name_for_human": "TODO List (no auth)",
-    "name_for_model": "todo",
-    "description_for_human": "Manage your TODO list. You can add, remove and view your TODOs.",
-    "description_for_model": "Plugin for managing a TODO list, you can add, remove and view your TODOs.",
+    "name_for_human": "joke",
+    "name_for_model": "joke",
+    "description_for_human": "get funny jokes.",
+    "description_for_model": "get jokes.",
     "auth": {
       "type": "none"
     },
@@ -11,7 +11,7 @@
       "type": "openapi",
       "url": "http://localhost:5003/openapi.yaml"
     },
-    "logo_url": "http://localhost:5003/logo.png",
+    "logo_url": "https://w7.pngwing.com/pngs/935/12/png-transparent-smiley-emoticon-wink-computer-icons-smiley-miscellaneous-face-smiley-thumbnail.png",
     "contact_email": "legal@example.com",
     "legal_info_url": "http://example.com/legal"
   }
